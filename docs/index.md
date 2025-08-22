@@ -1,6 +1,6 @@
 # CoCo ARCOS
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+CoCo Arcos
 
 ## Commands
 
